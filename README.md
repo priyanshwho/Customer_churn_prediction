@@ -47,6 +47,14 @@ https://customer-churn-prediction11.streamlit.app/
 
 ---
 
+## 📸 App Screenshots
+
+![App Screenshot 1](./image.png)
+
+![App Screenshot 2](./image2.png)
+
+---
+
 ## 📊 Dataset
 
 This project uses the **Telco Customer Churn Dataset** available on Kaggle.
